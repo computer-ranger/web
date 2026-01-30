@@ -7,6 +7,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <style>
         body {
+            
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16734149665">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16734149665');
+</script>
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             margin: 0;

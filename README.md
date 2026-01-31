@@ -4,10 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>COMPUTER RANGER EMPIRE</title>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
-    <style>
-        body {
-            
+    <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16734149665">
 </script>
 <script>
@@ -17,6 +14,10 @@
 
   gtag('config', 'AW-16734149665');
 </script>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             margin: 0;
